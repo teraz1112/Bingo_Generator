@@ -1,4 +1,4 @@
-# Library-Application
+# Bingo_Generator
 
 
 ## 概要
